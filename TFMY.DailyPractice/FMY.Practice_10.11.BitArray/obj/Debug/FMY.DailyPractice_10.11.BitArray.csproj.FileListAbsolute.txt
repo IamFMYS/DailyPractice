@@ -1,0 +1,6 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.Practice_10.11.BitArray\bin\Debug\FMY.Practice_10.11.BitArray.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.Practice_10.11.BitArray\bin\Debug\FMY.Practice_10.11.BitArray.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.Practice_10.11.BitArray\bin\Debug\FMY.Practice_10.11.BitArray.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.Practice_10.11.BitArray\obj\Debug\FMY.DailyPractice_10.11.BitArray.csprojResolveAssemblyReference.cache
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.Practice_10.11.BitArray\obj\Debug\FMY.Practice_10.11.BitArray.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.Practice_10.11.BitArray\obj\Debug\FMY.Practice_10.11.BitArray.pdb

@@ -1,0 +1,6 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\LookupDemo\bin\Debug\LookupDemo.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\LookupDemo\bin\Debug\LookupDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\LookupDemo\bin\Debug\LookupDemo.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\LookupDemo\obj\Debug\LookupDemo_10.8.3.csprojResolveAssemblyReference.cache
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\LookupDemo\obj\Debug\LookupDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\LookupDemo\obj\Debug\LookupDemo.pdb

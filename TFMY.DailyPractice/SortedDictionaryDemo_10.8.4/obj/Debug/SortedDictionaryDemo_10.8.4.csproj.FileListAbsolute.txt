@@ -1,0 +1,5 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SortedDictionaryDemo_10.8.4\bin\Debug\SortedDictionaryDemo_10.8.4.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SortedDictionaryDemo_10.8.4\bin\Debug\SortedDictionaryDemo_10.8.4.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SortedDictionaryDemo_10.8.4\bin\Debug\SortedDictionaryDemo_10.8.4.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SortedDictionaryDemo_10.8.4\obj\Debug\SortedDictionaryDemo_10.8.4.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SortedDictionaryDemo_10.8.4\obj\Debug\SortedDictionaryDemo_10.8.4.pdb

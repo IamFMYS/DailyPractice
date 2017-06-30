@@ -1,0 +1,5 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\DictionaryDemo\obj\Debug\DictionaryDemo.pdb

@@ -1,0 +1,6 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.DailyPractice_10.9\obj\Debug\FMY.DailyPractice_10.9.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.DailyPractice_10.9\obj\Debug\FMY.DailyPractice_10.9.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.DailyPractice_10.9\obj\Debug\FMY.DailyPractice_10.9.Set.csprojResolveAssemblyReference.cache
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.DailyPractice_10.9\bin\Debug\FMY.DailyPractice_10.9.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.DailyPractice_10.9\bin\Debug\FMY.DailyPractice_10.9.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\FMY.DailyPractice_10.9\bin\Debug\FMY.DailyPractice_10.9.pdb
