@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +21,8 @@ namespace SortedDictionaryDemo_10._8._4
              * 区别：
              * SortedList 类使用的内存比SortedDictionary 类 少
              * SoredDictionary 类元素插入和删除操作比较快
-             */             
+             */
+            //ISet<int> set = new HashSet();
         }
     }
 }

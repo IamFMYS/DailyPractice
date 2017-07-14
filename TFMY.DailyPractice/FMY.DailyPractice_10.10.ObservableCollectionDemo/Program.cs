@@ -13,7 +13,7 @@ namespace FMY.DailyPractice_10._10.ObservableCollectionDemo
         {
             ObservableCollection<int> observableCollection = 
                 new ObservableCollection<int>();
-
+            
         }
     }
 }

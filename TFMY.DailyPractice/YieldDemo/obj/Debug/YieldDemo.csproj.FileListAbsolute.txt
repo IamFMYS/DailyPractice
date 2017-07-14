@@ -1,0 +1,6 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\YieldDemo\bin\Debug\YieldDemo.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\YieldDemo\bin\Debug\YieldDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\YieldDemo\bin\Debug\YieldDemo.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\YieldDemo\obj\Debug\YieldDemo.csprojResolveAssemblyReference.cache
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\YieldDemo\obj\Debug\YieldDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\YieldDemo\obj\Debug\YieldDemo.pdb
