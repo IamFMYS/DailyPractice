@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3594299F-CC1A-405B-B216-1609F681A641}</ProjectGuid>
+    <ProjectGuid>{FAA9E26A-6E38-40BF-9322-6A5201E40597}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>YieldDemo</RootNamespace>
-    <AssemblyName>YieldDemo</AssemblyName>
+    <RootNamespace>ILookupDemo</RootNamespace>
+    <AssemblyName>ILookupDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,10 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MyEnumerator.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="yielDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

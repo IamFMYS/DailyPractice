@@ -1,0 +1,6 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SearchDemo\bin\Debug\SearchDemo.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SearchDemo\bin\Debug\SearchDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SearchDemo\bin\Debug\SearchDemo.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SearchDemo\obj\Debug\SearchDemo.csprojResolveAssemblyReference.cache
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SearchDemo\obj\Debug\SearchDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\SearchDemo\obj\Debug\SearchDemo.pdb

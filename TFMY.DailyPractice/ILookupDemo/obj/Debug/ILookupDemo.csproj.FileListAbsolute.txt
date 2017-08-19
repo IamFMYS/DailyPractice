@@ -1,0 +1,6 @@
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\ILookupDemo\bin\Debug\ILookupDemo.exe.config
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\ILookupDemo\bin\Debug\ILookupDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\ILookupDemo\bin\Debug\ILookupDemo.pdb
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\ILookupDemo\obj\Debug\ILookupDemo.csprojResolveAssemblyReference.cache
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\ILookupDemo\obj\Debug\ILookupDemo.exe
+F:\GitRepository\DailyPractice\TFMY.DailyPractice\ILookupDemo\obj\Debug\ILookupDemo.pdb
